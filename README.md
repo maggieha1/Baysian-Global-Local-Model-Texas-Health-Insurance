@@ -1,0 +1,2 @@
+This project models the proportion of health insurance coverage in Texas counties. We develop Bayesian regression models that use global-local priors and apply them to two datasets including average income of Texas counties. We also explored associations between the percentage of uninsured and average income. We compared the results between models and between two datasets that are 10 years apart. The posterior simulations are carried out in JAGS.
+It is a collaboration with Thomas Duong.
